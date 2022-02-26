@@ -6,12 +6,15 @@
 <h3 align="center">
 Achievements
 </h3> 
+<hr>
 <ol>
 <li>Winners HackEd V1.0 hackathon conducted by HackerEarth and K12 Techno Services.</li>
 <li>Winners WIT hackathon conducted by Walchand institute of technology.</li>
 <li>Finalists at SAWO Open for All Hackathon (Youngest team to qualify to the finals).</li>
 </ol>
-<hr>
+<br>
+<br>
+
 <p align="center" style="margin-top:10px">
 <hr>
 <h3 align="center">
