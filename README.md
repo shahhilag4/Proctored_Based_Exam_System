@@ -1,6 +1,17 @@
 <h1 align="center">Proctored Based Exam System</h1>
 <h3 align="center">A centralized platform for conducting examinations in a secure enviornment</h3>
-<br><br>
+<br>
+
+<hr>
+<h3 align="center">
+Achievements
+</h3> 
+<ol>
+<li>Winners HackEd V1.0 hackathon conducted by HackerEarth and K12 Techno Services.</li>
+<li>Winners WIT hackathon conducted by Walchand institute of technology.</li>
+<li>Finalists at SAWO Open for All Hackathon (Youngest team to qualify to the finals).</li>
+</ol>
+<hr>
 <p align="center" style="margin-top:10px">
 <hr>
 <h3 align="center">
