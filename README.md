@@ -37,7 +37,7 @@ Project Documentation
 </ol>
 </p>
 
-<div align="center"><img src="ps.jpeg" style="height: 300px;"></div>
+![alt text](https://github.com/shahhilag4/Proctored_Based_Exam_System/blob/master/ps.jpeg?raw=true)
 
 <hr>
 <h3 align="center">Unique Features</h3>
