@@ -37,7 +37,7 @@ Project Documentation
 </ol>
 </p>
 
-![alt text](./ps.jpeg)
+![alt text](ps.jpeg)
 
 <hr>
 <h3 align="center">Unique Features</h3>
