@@ -37,7 +37,7 @@ Project Documentation
 </ol>
 </p>
 
-![alt text](ps.jpeg)
+![ps](https://user-images.githubusercontent.com/64307441/220326008-825a4d7c-adff-47ee-914a-30d6d0732d7b.jpeg)
 
 <hr>
 <h3 align="center">Unique Features</h3>
