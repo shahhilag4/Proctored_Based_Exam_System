@@ -24,7 +24,7 @@ app.config['MONGODB_SETTINGS'] = {
     'host': 'mongodb+srv://hrithik:qwerty1234@cluster0.oolkd.mongodb.net'
 }
 
-db = MongoEngine(app)
+db = MongoEngine(app,authSource="admin")
 app.config['SECRET_KEY'] = 'qwertyuiop'
 app.config['UPLOAD_FOLDER'] = 'images\\'
 app.config['MAX_CONTENT_PATH'] = '500'
