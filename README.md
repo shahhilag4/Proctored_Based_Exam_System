@@ -23,7 +23,7 @@ Project Documentation
 <hr>
 <br> 
 <ul>
-<li>Our main objective via this project is to bring uniformity in the online examination system to conduct fair and secure examinations</li>
+<li>Our main objective via this project is to bring uniformity in the online examination system to conduct fair and secure examinations.</li>
 <li>As the COVID-19 pandemic has changed our lives forever it has parallelly also impacted many student lives which has resulted in various challenges, examination being the major one.</li>
 <li>A safe and secure examination system is the utmost priority in the present time so that all the students get equal opportunity and the score obtained by the student is equivalent to his/her knowledge.</li>
 <li>Our testing tool will be built with the following features-</li>
